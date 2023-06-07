@@ -1,0 +1,6 @@
+{
+  "wealthytext": {
+    "component": "WealthyText",
+    "composition": "children"
+  }
+}
